@@ -1,0 +1,32 @@
+body {
+  background: url("../img/bg.jpg") no-repeat;
+  background-size: 100%;
+}
+
+#act-page {
+  position: relative;
+}
+#act-page button {
+  width: 200px;
+  position: absolute;
+  top: 350px;
+  right: 0;
+  left: 0;
+  margin: auto;
+  border: none;
+  outline: none;
+  background: none;
+}
+#act-page button img {
+  width: 100%;
+}
+#act-page a {
+  text-align: center;
+  font-size: 20px;
+  color: #fff;
+  position: absolute;
+  top: 450px;
+  right: 0;
+  left: 0;
+  margin: auto;
+}
